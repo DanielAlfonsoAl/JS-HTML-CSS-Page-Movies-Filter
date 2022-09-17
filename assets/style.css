@@ -1,0 +1,13 @@
+.titulos{
+    text-align: center;
+}
+.peliculas-content.series-content.libros-content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.peliculas.series.libros,img{
+    width: 10%;
+    height: 10%;
+}
